@@ -8,12 +8,6 @@ import pandas as pd
 import numpy as np
 
 
-# In[2]:
-
-
-df= pd.read_csv("breast-cancer")
-
-
 # In[5]:
 
 
