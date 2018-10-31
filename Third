@@ -1,4 +1,5 @@
 import io
 
 df = pd.read_csv(io.StringIO(uploaded['breast-cancer.csv'].decode('utf-8')))
+#to check any nan values
 df.values
