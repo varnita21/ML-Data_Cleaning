@@ -1,5 +1,5 @@
 # ML-Data_Cleaning
 
 Commands for cleaning of data on Google Colab.
-Preprocessing commands which includes :- Binarization, Normalization, Scaling, Mean Removal.
+Preprocessing Methods commands which includes :- Binarization, Normalization, Scaling, Mean Removal.
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/varnita21/master)
